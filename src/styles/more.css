@@ -9,13 +9,19 @@
 }
 
 .bullet {
-    height: 20px;
-    width: 20px;
-    padding-right: 5px;
+    height: 2%;
+    width: 2%;
+    padding-right: 2px;
+    /* padding-left: 2px; */
 }
 
 .row {
+    /* padding-left: 2px; */
     display: flex;
     flex-direction: row;
     align-items: center;
+}
+
+.paddingDiv {
+    padding: 2px;
 }

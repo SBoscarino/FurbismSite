@@ -18,7 +18,7 @@ class HowToPractice extends Component {
           <div className="pushIn">
             <p>We Furbists prefer foods that are round and contain holes. Foods like doughnuts are reminiscent of the final Long One consuming itself in infinitum.</p>
             <p>Foods simply containing holes or microbes such as cheese and yogurt, are symbolic of the holes the furbies leave behind while consuming the universe.</p>
-            <p>We also like LONG foods, such as asparagus, carrots, leeks, or spaghetti. By consuming long foods, we are reminded of our goal to attain length.</p>
+            <p>We also like LONG foods, such as asparagus, carrots, leeks, hotdogs, or spaghetti. By consuming long foods, we are reminded of our goal to attain length.</p>
             <p>Honestly, since The Great Long One eventually consumes everything then eating anything at all is paying homage to The Great Long One.</p>
             <p>Share food with others and eat together so you can share in the joy of fullness and lengthening in your abdominal region together.</p>
           </div>
@@ -34,10 +34,10 @@ class HowToPractice extends Component {
         </div>
         <div>
           <h2>How Spot a Furbist</h2>
-          <p>Practicing a weird religion about invisible longfurbies is cooler with friends!</p>
+          <p>Practicing a weird religion about invisible Longfurbies is cooler with friends!</p>
           <p>With so many patrons unknowingly practicing Furbism, how do we know the ones who have achieved the most SPIRITUAL LENGTH?</p>
           <div className="pushIn">
-            <p>If someone has made or purchased a longfurby at any time in their life, they are an honorary Furbist because they are either a member of the art community or are paying an artist to make one. Awesome!</p>
+            <p>If someone has made or purchased a Longfurby at any time in their life, they are an honorary Furbist because they are either a member of the art community or are paying an artist to make one. Awesome!</p>
             <p>Now that we think about it, the best way to find out if someone is a practicing Furbist is to JUST ASK. Worst case, the person being asked had NO IDEA that Furbism is a THING! Well, now they DO! Convert them if you so desire - or don't. We're chill.</p>
           </div>
         </div>
