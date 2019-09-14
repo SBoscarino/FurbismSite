@@ -32,3 +32,18 @@ a {
     justify-content: flex-end;
     padding-right: 10px;
   }
+
+@media only screen and (max-width: 600px) {
+    .navbar{ 
+        text-decoration: none;
+        height: 3vh;
+        background-color: #f7bfe2;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        font-family: 'Abril Fatface', cursive;
+        font-size: 1.5vh;
+        align-items: center;
+    }
+}
