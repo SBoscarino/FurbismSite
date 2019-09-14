@@ -15,7 +15,7 @@ class More extends Component {
 
             <div className="row">
               <img src={roundDoughnut} className="bullet" /> 
-              <p> Put in a Pull Request to help us upkeep the site! You can find the public Repo <a className="link" href='https://github.com/sbscrino/FurbismSite'>HERE</a>.</p>
+              <p> Put in a Pull Request to help us upkeep the site! You can find the public Repo <a className="link" href='https://github.com/SBoscarino/FurbismSite'>HERE</a>.</p>
             </div>
 
             <div className="row">
